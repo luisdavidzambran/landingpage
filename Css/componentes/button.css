@@ -1,0 +1,20 @@
+.btn-blue {
+    height: 20px;
+    background-color: red;
+    padding: 15px 20px;
+    border-radius: 0px 60px 0px 60px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    opacity: 0.8;
+    box-shadow: 20px 8px 18px rgb(0, 0, 0);
+}
+.btn-blue:hover {
+    background-color: rgb(211, 167, 25);
+    box-shadow: 20px 8px 18px rgb(0, 0, 0);
+    transition: all 0.8s ease;
+    color: black;
+}
+
+

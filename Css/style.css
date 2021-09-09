@@ -1,0 +1,21 @@
+@import url("componentes/container.css");
+@import url("componentes/button.css");
+@import url("componentes/avatar.css");
+@import url("componentes/banner.css");
+@import url("componentes/card.css");
+@import url("componentes/footer.css");
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin: 0;
+    background-color:rgba(245, 184, 71, 0.432);
+
+}
+
+h1,h2,h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+}
